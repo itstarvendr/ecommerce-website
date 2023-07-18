@@ -1,0 +1,27 @@
+ecommerce-frontend
+├── public
+│   ├── index.html
+│   └── ...
+└── src
+    ├── components
+    │   ├── Navbar.js
+    │   ├── ProductList.js
+    │   ├── ProductEditForm.js
+    │   ├── ProductDetail.js
+    │   ├── Cart.js
+    │   └── Alert.js
+    ├── pages
+    │   ├── AllProducts.js
+    │   ├── CreateProduct.js
+    │   └── CartPage.js
+    ├── actions
+    │   └── index.js
+    ├── reducers
+    │   └── index.js
+    ├── api
+    │   └── products.js
+    ├── App.js
+    ├── index.js
+    ├── store.js
+    ├── index.css
+    └── ...
